@@ -1,0 +1,46 @@
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 300px;
+}
+
+#cont {
+    display: block;
+    margin: auto;
+}
+
+.lable {
+    padding: 20px;
+    font-size: 30px;
+
+}
+
+input {
+    margin: 30px;
+}
+
+button {
+    padding-top: 30px;
+    background-color: #008CBA;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+p {
+    font-size: 50px;
+}
